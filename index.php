@@ -8,6 +8,8 @@
 <label for="x">Opposite Side:</label>
 <input type="number" id="x" name="x">
 <br>
+<p />
+<br>
 <label for="y">hypotenuse:</label>
 <input type="number" id="y" name="y">
 <br>
