@@ -4,7 +4,7 @@
 <title>Finals</title>
 <meta charset="utf-8">
 </head>
-<p>Please input the Opposite side and Hypotenuse</p>
+<p>Please input the Opposite side and Hypotenuse for your angle</p>
 <label for="x">Opposite Side:</label>
 <input type="number" id="x" name="x">
 <p />
