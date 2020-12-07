@@ -5,15 +5,14 @@
 <meta charset="utf-8">
 </head>
 <p>Please input the Opposite side and Hypotenuse</p>
-<div class="finals">
 <label for="x">Opposite Side:</label>
 <input type="number" id="x" name="x">
-<br>
+<p />
 <label for="y">Hypotenuse:</label>
 <input type="number" id="y" name="y">
+<p />
 <button onclick="return calc();">Submit</button>
 <p id="answer"></p>
-</div>
     <script>
         function calc() {
             console.log("hi");
