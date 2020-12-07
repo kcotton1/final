@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-// Kenji Cotton
-// IT 5236
-// 12/2/2020
+/* Kenji Cotton
+IT 5236
+12/2/2020 */
 <html lang="en">
 <head>
 <title>Finals</title>
