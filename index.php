@@ -8,6 +8,7 @@
 <div class="finals">
 <label for="x">Opposite Side:</label>
 <input type="number" id="x" name="x">
+<br>
 <label for="y">Hypotenuse:</label>
 <input type="number" id="y" name="y">
 <button onclick="return calc();">Submit</button>
