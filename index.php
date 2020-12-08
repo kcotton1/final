@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<!-- Kenji Cotton
+IT 5236
+12/2/2020-->
 <html lang="en">
 <head>
 <title>Finals</title>
@@ -15,7 +18,7 @@
 <p id="answer"></p>
     <script>
         function calc() {
-            console.log("hi");
+            console.log("weyo");
             let xval = document.getElementById('x').value;
             let yval = document.getElementById('y').value;
             var xhttp = new XMLHttpRequest();
