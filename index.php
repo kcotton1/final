@@ -15,7 +15,7 @@ IT 5236
 <input type="number" id="y" name="y">
 <p />
 <button onclick="return calc();">Submit</button>
-<p id="answer" name="answer"></p>
+<p id="answer"></p>
     <script>
         function calc() {
             console.log("weyo");
