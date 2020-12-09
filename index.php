@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <!-- Kenji Cotton
 IT 5236
-12/2/2020-->
+12/2/2020
+Source of javascript from Dr. Thackston-->
 <html lang="en">
 <head>
 <title>Finals</title>
@@ -28,7 +29,7 @@ IT 5236
                     document.getElementById('answer').innerHTML = "Your angle in degrees is : " + this.responseText;
                 }
             };
-            xhttp.open("POST", 'https://us-east1-kcotton.cloudfunctions.net/function-test', true);
+            xhttp.open("POST", 'https://us-east1-kcotton.cloudfunctions.net/function-sine', true);
             xhttp.setRequestHeader("Content-Type", "application/json");
             xhttp.send(JSON.stringify({x:xval, y:yval}));
             console.log("bye");
